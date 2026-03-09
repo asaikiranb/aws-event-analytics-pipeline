@@ -14,7 +14,7 @@ My job was to build a pipeline that transforms 500,000 to 750,000 events arrivin
 
 ## How It Works
 
-![Pipeline Architecture](./pipeline_architecture_diagram_1764840103912.png)
+![Pipeline Architecture](docs/pipeline_architecture_diagram.png)
 
 I built this using a three-layer approach: Bronze, Silver, and Gold.
 
